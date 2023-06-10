@@ -4,7 +4,7 @@ import React from 'react'
 
 function Billboard() {
   return (
-    <section className="relative px-153 pt-[107px]">
+    <section className="relative px-153 pt-[107px] -z-10">
         <div className="absolute inset-0 bg-FF6/[0.06] mix-blend-normal"/>
         <div className="absolute inset-0 bg-FF7 mix-blend-overlay"/>
         <div className="absolute inset-0 -z-10">
